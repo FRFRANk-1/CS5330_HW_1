@@ -1,0 +1,9 @@
+D:/NEU study file/5330/opencv_test/build/CMakeFiles/Experimental.dir
+D:/NEU study file/5330/opencv_test/build/CMakeFiles/Nightly.dir
+D:/NEU study file/5330/opencv_test/build/CMakeFiles/Continuous.dir
+D:/NEU study file/5330/opencv_test/build/CMakeFiles/NightlyMemoryCheck.dir
+D:/NEU study file/5330/opencv_test/build/CMakeFiles/opencvtest.dir
+D:/NEU study file/5330/opencv_test/build/CMakeFiles/PACKAGE.dir
+D:/NEU study file/5330/opencv_test/build/CMakeFiles/RUN_TESTS.dir
+D:/NEU study file/5330/opencv_test/build/CMakeFiles/ALL_BUILD.dir
+D:/NEU study file/5330/opencv_test/build/CMakeFiles/ZERO_CHECK.dir
