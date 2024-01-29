@@ -22,4 +22,5 @@ int main(int argc, char** argv) {
     }     timeBlurProcessing(imagePath);
 
     return 0;
+    
 }
